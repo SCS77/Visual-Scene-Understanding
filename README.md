@@ -43,6 +43,7 @@
 | 2025 | arXiv | **SceneSplat++: A Large Dataset and Comprehensive   Benchmark for Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.08710) | [GitHub](https://github.com/unique1i/SceneSplat_Benchmark) |
 | 2025 | arXiv | **Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting** | [Paper](https://arxiv.org/abs/2509.05515) | ---- |
 | 2025 | CVPR | **4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models** | [Paper](https://arxiv.org/pdf/2503.10437) | [GitHub](https://github.com/zrporz/4DLangSplat) |
+| 2025 | CVPR | **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_End-to-End_2D_to_3D_Scene_Segmentation_in_Gaussian_Splatting_CVPR_2025_paper.pdf) | [GitHub](https://github.com/Runsong123/Unified-Lift) |
 | 2025 | ICCV | **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2505.20469) | ---- |
 | 2025 | ICCV | **CF3: Compact and Fast 3D Feature Fields** | [Paper](https://arxiv.org/pdf/2508.05254) | [GitHub](https://github.com/SNU-VGILab/CF3) |
 | 2025 | ICCV | **Identity-aware Language Gaussian Splatting for Open-vocabulary 3D Semantic Segmentation** | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Jang_Identity-aware_Language_Gaussian_Splatting_for_Open-vocabulary_3D_Semantic_Segmentation_ICCV_2025_paper.pdf) | [GitHub](https://github.com/DCVL-3D/ILGS_release) |
@@ -50,6 +51,7 @@
 | 2025 | ICCV | **SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** | [Paper](https://arxiv.org/pdf/2503.18052) | [GitHub](https://github.com/unique1i/SceneSplat) |
 | 2025 | NeurIPS | **LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS** | [Paper](https://arxiv.org/pdf/2507.07136) | [GitHub](https://github.com/ZhaoYujie2002/LangSplatV2) |
 | 2025 | TOMM | **CLIP-GS: CLIP-Informed Gaussian Splatting for View-Consistent 3D Indoor Semantic Understanding** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746284) | ---- |
+| 2026 | ICLR | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |
 
 
 
