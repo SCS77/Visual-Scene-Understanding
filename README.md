@@ -7,7 +7,7 @@
 ## [🔥 Scene Reconstruction](#scene-reconstruction)  
 
 
-| Year | 期刊/会议 | Title | Paper | Code |
+| Year | J/C | Title | Paper | Code |
 |------|-----------|-------|-------|------|
 | 2024 | CVPR | **DUSt3R: Geometric 3D Vision Made Easy** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.html) | [GitHub](https://github.com/naver/dust3r) |
 | 2025 | arXiv | **π³: Permutation-Equivariant Visual Geometry Learning** | [Paper](https://arxiv.org/abs/2507.13347) | [GitHub](https://github.com/yyfz/Pi3) |
@@ -34,7 +34,7 @@
 ## [🚀 Scene Understanding](#scene-understanding)  
 
 
-| Year | 期刊/会议 | Title | Paper | Code |
+| Year | J/C | Title | Paper | Code |
 |------|-----------|-------|-------|------|
 | 2024 | arXiv | **CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2412.19142) | ---- |
 | 2024 | CVPR | **LangSplat: 3D Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2312.16084) | [GitHub](https://github.com/minghanqin/LangSplat) |
