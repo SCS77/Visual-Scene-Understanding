@@ -54,10 +54,9 @@
 | 2025 | TOMM | **CLIP-GS: CLIP-Informed Gaussian Splatting for View-Consistent 3D Indoor Semantic Understanding** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746284) | ---- |
 | 2026 | ICLR | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |
 | 2025 | CVPR | **Cross-Modal 3D Representation with Multi-View Images and Point Clouds** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Cross-Modal_3D_Representation_with_Multi-View_Images_and_Point_Clouds_CVPR_2025_paper.pdf) | ---- |
-
-
-
-
-
-
+| 2024 | CVPR | **GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_GaussianEditor_Swift_and_Controllable_3D_Editing_with_Gaussian_Splatting_CVPR_2024_paper.pdf) | [GtiHub](https://github.com/buaacyw/GaussianEditor) |
+| 2025 | CVPR | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf) | [GtiHub](https://github.com/kaist-ami/Dr-Splat) |
+| 2024 | IJCV | **FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2401.01970) | [GtiHub](https://github.com/google-research/foundation-model-embedded-3dgs) |
+| 2024 | NeurIPS | **OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf) | [GtiHub](https://github.com/yanmin-wu/OpenGaussian) |
+| 2024 | CVPR | **OmniSeg3D-GS: Gaussian-Splatting based OmniSeg3D** | [Paper](https://arxiv.org/pdf/2311.11666) | [GtiHub](https://github.com/OceanYing/OmniSeg3D-GS) |
 
