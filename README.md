@@ -22,7 +22,7 @@
 | 2025 | ICLR | **MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion** | [Paper](https://monst3r-project.github.io/files/monst3r_paper.pdf) | [GitHub](https://github.com/Junyi42/monst3r) |
 | 2025 | NeurIPS | **SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment** | [Paper](https://arxiv.org/abs/2507.02705) | [GitHub](https://github.com/WU-CVGL/SIU3R) |
 | 2025 | ICCV | **Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images** | [Paper](https://arxiv.org/pdf/2503.13439) | [GitHub](https://github.com/Sm0kyWu/Amodal3R) |
-
+| 2025 | arXiv | **VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction** | [Paper](https://arxiv.org/pdf/2510.19578) | ---- |
 
 
 
