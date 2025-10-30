@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Visual-Scene-Understanding </b>
+  <b>Scene-Understanding </b>
 </h1>
 
 
@@ -21,7 +21,7 @@
 | 2025 | CVPR | **VGGT: Visual Geometry Grounded Transformer** | [Paper](https://arxiv.org/abs/2503.11651) | [GitHub](https://github.com/facebookresearch/vggt) |
 | 2025 | ICLR | **MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion** | [Paper](https://monst3r-project.github.io/files/monst3r_paper.pdf) | [GitHub](https://github.com/Junyi42/monst3r) |
 | 2025 | NeurIPS | **SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment** | [Paper](https://arxiv.org/abs/2507.02705) | [GitHub](https://github.com/WU-CVGL/SIU3R) |
-
+| 2025 | ICCV | **Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images** | [Paper](https://arxiv.org/pdf/2503.13439) | [GitHub](https://github.com/Sm0kyWu/Amodal3R) |
 
 
 
@@ -50,13 +50,12 @@
 | 2025 | ICCV | **Identity-aware Language Gaussian Splatting for Open-vocabulary 3D Semantic Segmentation** | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Jang_Identity-aware_Language_Gaussian_Splatting_for_Open-vocabulary_3D_Semantic_Segmentation_ICCV_2025_paper.pdf) | [GitHub](https://github.com/DCVL-3D/ILGS_release) |
 | 2025 | ICCV | **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes** | [Paper](https://arxiv.org/pdf/2410.14462) | [GitHub](https://github.com/naver/ludvig) |
 | 2025 | ICCV | **SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining** | [Paper](https://arxiv.org/pdf/2503.18052) | [GitHub](https://github.com/unique1i/SceneSplat) |
-| 2025 | ICCV | **SAS: Segment Any 3D Scene with Integrated 2D Priors** | [Paper](https://arxiv.org/pdf/2503.08512) | [GitHub](https://github.com/peoplelu/SAS) |
 | 2025 | TOMM | **CLIP-GS: CLIP-Informed Gaussian Splatting for View-Consistent 3D Indoor Semantic Understanding** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746284) | ---- |
 | 2026 | ICLR | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |
-| 2025 | CVPR | **Cross-Modal 3D Representation with Multi-View Images and Point Clouds** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Cross-Modal_3D_Representation_with_Multi-View_Images_and_Point_Clouds_CVPR_2025_paper.pdf) | ---- |
 | 2024 | CVPR | **GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_GaussianEditor_Swift_and_Controllable_3D_Editing_with_Gaussian_Splatting_CVPR_2024_paper.pdf) | [GtiHub](https://github.com/buaacyw/GaussianEditor) |
 | 2025 | CVPR | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf) | [GtiHub](https://github.com/kaist-ami/Dr-Splat) |
 | 2024 | IJCV | **FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2401.01970) | [GtiHub](https://github.com/google-research/foundation-model-embedded-3dgs) |
 | 2024 | NeurIPS | **OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf) | [GtiHub](https://github.com/yanmin-wu/OpenGaussian) |
-| 2024 | CVPR | **OmniSeg3D-GS: Gaussian-Splatting based OmniSeg3D** | [Paper](https://arxiv.org/pdf/2311.11666) | [GtiHub](https://github.com/OceanYing/OmniSeg3D-GS) |
+| 2024 | CVPR | **OmniSeg3D-GS: Gaussian-Splatting based OmniSeg3D** | [Paper](https://arxiv.org/pdf/2311.11666) | [GtiHub](https://github.com/OceanYing/OmniSeg3D-GS) |OmniSeg3D
+| 2025 | arXiv | **CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus** | [Paper](https://arxiv.org/pdf/2509.04859) | ---- |
 
