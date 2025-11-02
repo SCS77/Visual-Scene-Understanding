@@ -70,9 +70,10 @@
 | 2025 | AAAI | **Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2411.19551) | [GtiHub](https://github.com/wb014/FreeGS) |
 | 2025 | ICCV | **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion** | [Paper](https://arxiv.org/pdf/2507.02813) | [GtiHub](https://github.com/liuff19/LangScene-X) |
 | 2025 | NeurIPS | **COS3D: Collaborative Open-Vocabulary 3D Segmentation** | [Paper](https://arxiv.org/abs/2510.20238) | [GtiHub](https://github.com/Runsong123/COS3D) |
+| 2025 | IROS | **OpenGS-Fusion: Open-Vocabulary Dense Mapping with Hybrid 3D Gaussian Splatting for Refined Object-Level Understanding** | [Paper](https://arxiv.org/pdf/2508.01150) | [GtiHub](https://github.com/YOUNG-bit/OpenGS-Fusion) |
 | 2025 | NeurIPS | **PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors** | [Paper](https://arxiv.org/pdf/2510.23930) | [GtiHub](https://github.com/SJTU-ViSYS-team/PlanarGS) |
 | 2026 | ICLR | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |
-
+| 2026 | ICLR | **SURGRE4DGS: OPEN-VOCABULARY VISION-LANGUAGE GAUSSIAN SPLATTING FOR RETRIEVABLE 4D SURGICAL SCENE RECONSTRUCTION** | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww) | ---- |
 
 
 
