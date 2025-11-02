@@ -24,7 +24,7 @@
 | 2025 | ICCV | **Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images** | [Paper](https://arxiv.org/pdf/2503.13439) | [GitHub](https://github.com/Sm0kyWu/Amodal3R) |
 | 2025 | arXiv | **VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction** | [Paper](https://arxiv.org/pdf/2510.19578) | ---- |
 | 2025 | ACM | **LVT: Large-Scale Scene Reconstruction via Local View Transformers** | [Paper](https://arxiv.org/pdf/2509.25001) | ---- |
-
+| 2025 | NeurIPS | **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles** | [Paper](https://arxiv.org/pdf/2505.21060) | [GitHub](https://github.com/WU-CVGL/Styl3R) |
 
 
 
@@ -70,6 +70,7 @@
 | 2025 | AAAI | **Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2411.19551) | [GtiHub](https://github.com/wb014/FreeGS) |
 | 2025 | ICCV | **LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion** | [Paper](https://arxiv.org/pdf/2507.02813) | [GtiHub](https://github.com/liuff19/LangScene-X) |
 | 2025 | NeurIPS | **COS3D: Collaborative Open-Vocabulary 3D Segmentation** | [Paper](https://arxiv.org/abs/2510.20238) | [GtiHub](https://github.com/Runsong123/COS3D) |
+| 2025 | NeurIPS | **PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors** | [Paper](https://arxiv.org/pdf/2510.23930) | [GtiHub](https://github.com/SJTU-ViSYS-team/PlanarGS) |
 | 2026 | ICLR | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |
 
 
