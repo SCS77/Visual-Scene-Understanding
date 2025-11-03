@@ -51,7 +51,7 @@
 | 2025 | AAAI | **Segment Any 3D Gaussians** | [Paper](https://arxiv.org/pdf/2312.00860) | [GitHub](https://github.com/Jumpat/SegAnyGAussians) |
 | 2025 | arXiv | **AG2aussian: Anchor-Graph Structured Gaussian Splatting for Instance-Level 3D Scene Understanding and Editing** | [Paper](https://arxiv.org/pdf/2508.01740) | [GitHub](https://github.com/DyllanElliia/AGGaussian) |
 | 2025 | arXiv | **GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2508.14278) | ---- |
-| 2025 | arXiv | **SceneSplat++: A Large Dataset and Comprehensive   Benchmark for Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.08710) | [GitHub](https://github.com/unique1i/SceneSplat_Benchmark) |
+| 2025 | NeurIPS | **SceneSplat++: A Large Dataset and Comprehensive   Benchmark for Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.08710) | [GitHub](https://github.com/unique1i/SceneSplat_Benchmark) |
 | 2025 | arXiv | **Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting** | [Paper](https://arxiv.org/abs/2509.05515) | ---- |
 | 2025 | CVPR | **Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Efficient_Decoupled_Feature_3D_Gaussian_Splatting_via_Hierarchical_Compression_CVPR_2025_paper.pdf) | [GitHub](https://github.com/dai647/DF_3DGS) |
 | 2025 | NeurIPS | **LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS** | [Paper](https://arxiv.org/pdf/2507.07136) | [GitHub](https://github.com/ZhaoYujie2002/LangSplatV2) |
@@ -72,8 +72,11 @@
 | 2025 | NeurIPS | **COS3D: Collaborative Open-Vocabulary 3D Segmentation** | [Paper](https://arxiv.org/abs/2510.20238) | [GtiHub](https://github.com/Runsong123/COS3D) |
 | 2025 | IROS | **OpenGS-Fusion: Open-Vocabulary Dense Mapping with Hybrid 3D Gaussian Splatting for Refined Object-Level Understanding** | [Paper](https://arxiv.org/pdf/2508.01150) | [GtiHub](https://github.com/YOUNG-bit/OpenGS-Fusion) |
 | 2025 | NeurIPS | **PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors** | [Paper](https://arxiv.org/pdf/2510.23930) | [GtiHub](https://github.com/SJTU-ViSYS-team/PlanarGS) |
+| 2025 | arXiv | **SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields** | [Paper](https://arxiv.org/pdf/2506.09565) | ---- |
+| 2025 | arXiv | **Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images** | [Paper](https://arxiv.org/pdf/2508.03643) | [GtiHub](https://github.com/HorizonRobotics/Uni3R) |
 | 2026 | ICLR | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |
 | 2026 | ICLR | **SURGRE4DGS: OPEN-VOCABULARY VISION-LANGUAGE GAUSSIAN SPLATTING FOR RETRIEVABLE 4D SURGICAL SCENE RECONSTRUCTION** | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww) | ---- |
+| 2026 | ICLR | **QuantileRender: Efficiently Embedding High-Dimensional Features on 3D Gaussian Splatting** | [Paper](https://openreview.net/attachment?id=BncqszFjCb&name=pdf) | ---- |
 
 
 
