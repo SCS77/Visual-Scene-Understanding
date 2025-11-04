@@ -25,7 +25,6 @@
 | 2025 | arXiv | **VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction** | [Paper](https://arxiv.org/pdf/2510.19578) | ---- |
 | 2025 | ACM | **LVT: Large-Scale Scene Reconstruction via Local View Transformers** | [Paper](https://arxiv.org/pdf/2509.25001) | ---- |
 | 2025 | NeurIPS | **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles** | [Paper](https://arxiv.org/pdf/2505.21060) | [GitHub](https://github.com/WU-CVGL/Styl3R) |
-| 2025 | arXiv | **IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction** | [Paper](https://arxiv.org/pdf/2510.22706) | [GitHub](https://github.com/lifuguan/IGGT_official) |
 
 
 
@@ -74,9 +73,11 @@
 | 2025 | NeurIPS | **PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors** | [Paper](https://arxiv.org/pdf/2510.23930) | [GtiHub](https://github.com/SJTU-ViSYS-team/PlanarGS) |
 | 2025 | arXiv | **SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields** | [Paper](https://arxiv.org/pdf/2506.09565) | ---- |
 | 2025 | arXiv | **Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images** | [Paper](https://arxiv.org/pdf/2508.03643) | [GtiHub](https://github.com/HorizonRobotics/Uni3R) |
+| 2025 | arXiv | **IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction** | [Paper](https://arxiv.org/pdf/2510.22706) | [GitHub](https://github.com/lifuguan/IGGT_official) |
 | 2026 | ICLR | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |
 | 2026 | ICLR | **SURGRE4DGS: OPEN-VOCABULARY VISION-LANGUAGE GAUSSIAN SPLATTING FOR RETRIEVABLE 4D SURGICAL SCENE RECONSTRUCTION** | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww) | ---- |
 | 2026 | ICLR | **QuantileRender: Efficiently Embedding High-Dimensional Features on 3D Gaussian Splatting** | [Paper](https://openreview.net/attachment?id=BncqszFjCb&name=pdf) | ---- |
+
 
 
 
