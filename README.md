@@ -25,7 +25,7 @@
 | 2025 | arXiv | **VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction** | [Paper](https://arxiv.org/pdf/2510.19578) | ---- |
 | 2025 | ACM | **LVT: Large-Scale Scene Reconstruction via Local View Transformers** | [Paper](https://arxiv.org/pdf/2509.25001) | ---- |
 | 2025 | NeurIPS | **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles** | [Paper](https://arxiv.org/pdf/2505.21060) | [GitHub](https://github.com/WU-CVGL/Styl3R) |
-
+| 2025 | arXiv | **IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction** | [Paper](https://arxiv.org/pdf/2510.22706) | [GitHub](https://github.com/lifuguan/IGGT_official) |
 
 
 
