@@ -1,3 +1,36 @@
+<h1 align="center">
+  <b>Scene-Understanding </b>
+</h1>
+
+
+
+## [🔥 Scene Reconstruction](#scene-reconstruction)  
+
+
+| Year | J/C | Title | Paper | Code |
+|------|-----------|-------|-------|------|
+| 2024 | CVPR | **DUSt3R: Geometric 3D Vision Made Easy** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.html) | [GitHub](https://github.com/naver/dust3r) |
+| 2025 | arXiv | **π³: Permutation-Equivariant Visual Geometry Learning** | [Paper](https://arxiv.org/abs/2507.13347) | [GitHub](https://github.com/yyfz/Pi3) |
+| 2025 | CVPR | **Align3R: Aligned Monocular Depth Estimation for Dynamic Videos** | [Paper](https://arxiv.org/abs/2412.03079) | [GitHub](https://github.com/jiah-cloud/Align3R) |
+| 2025 | CVPR | **Continuous 3D Perception Model with Persistent State** | [Paper](https://arxiv.org/pdf/2501.12387) | [GitHub](https://github.com/CUT3R/CUT3R) |
+| 2025 | CVPR | **Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass** | [Paper](https://arxiv.org/abs/2501.13928) | [GitHub](https://github.com/facebookresearch/fast3r) |
+| 2025 | CVPR | **MapAnything: Universal Feed-Forward Metric 3D Reconstruction** | [Paper](https://arxiv.org/abs/2509.13414) | [GitHub](https://github.com/facebookresearch/map-anything) |
+| 2025 | CVPR | **MUSt3R: Multi-view Network for Stereo 3D Reconstruction** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cabon_MUSt3R_Multi-view_Network_for_Stereo_3D_Reconstruction_CVPR_2025_paper.html) | [GitHub](https://github.com/naver/must3r) |
+| 2025 | CVPR | **MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds** | [Paper](https://arxiv.org/abs/2412.06974) | [GitHub](https://github.com/facebookresearch/mvdust3r) |
+| 2025 | CVPR | **Pow3R: Empowering Unconstrained 3D  Reconstruction with Camera and Scene Priors** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jang_Pow3R_Empowering_Unconstrained_3D_Reconstruction_with_Camera_and_Scene_Priors_CVPR_2025_paper.pdf#:~:text=In%20this%20paper%2C%20we%20introduce%20Pow3R%2C%20a%20new,sparse%20or%20dense%20depth%2C%20or%20relative%20camera%20poses.) | [GitHub](https://github.com/naver/pow3r) |
+| 2025 | CVPR | **VGGT: Visual Geometry Grounded Transformer** | [Paper](https://arxiv.org/abs/2503.11651) | [GitHub](https://github.com/facebookresearch/vggt) |
+| 2025 | ICLR | **MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion** | [Paper](https://monst3r-project.github.io/files/monst3r_paper.pdf) | [GitHub](https://github.com/Junyi42/monst3r) |
+| 2025 | NeurIPS | **SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment** | [Paper](https://arxiv.org/abs/2507.02705) | [GitHub](https://github.com/WU-CVGL/SIU3R) |
+| 2025 | ICCV | **Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images** | [Paper](https://arxiv.org/pdf/2503.13439) | [GitHub](https://github.com/Sm0kyWu/Amodal3R) |
+| 2025 | arXiv | **VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction** | [Paper](https://arxiv.org/pdf/2510.19578) | ---- |
+| 2025 | ACM | **LVT: Large-Scale Scene Reconstruction via Local View Transformers** | [Paper](https://arxiv.org/pdf/2509.25001) | ---- |
+| 2025 | NeurIPS | **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles** | [Paper](https://arxiv.org/pdf/2505.21060) | [GitHub](https://github.com/WU-CVGL/Styl3R) |
+
+
+
+
+
+
 
 ### (i) Per-Scene Optimization-based Methods
 
@@ -50,3 +83,4 @@
 | 2025 | arXiv   | **Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-View Images** | [Paper](https://arxiv.org/pdf/2508.03643)         | [GitHub](https://github.com/HorizonRobotics/Uni3R)         |
 | 2025 | arXiv   | **IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction** | [Paper](https://arxiv.org/pdf/2510.22706)         | [GitHub](https://github.com/lifuguan/IGGT_official)        |
 | 2026 | ICLR    | **SURGRE4DGS: OPEN-VOCABULARY VISION-LANGUAGE GAUSSIAN SPLATTING FOR RETRIEVABLE 4D SURGICAL SCENE RECONSTRUCTION** | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww) | ----                                                       |
+
