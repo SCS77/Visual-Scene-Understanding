@@ -87,5 +87,7 @@
 | ---- | ----- | ------ | ----- | -----|
 | 2024 | arXiv | **LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2412.17635) | [GitHub](https://github.com/lifuguan/LangSurf) |  
 | 2024 | arXiv | **Occam's LGS: An Efficient Approach for Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2412.01807) | [GitHub](https://github.com/insait-institute/OccamLGS) |  
-| 2025 | arXiv | **Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting** | [Paper](https://arxiv.org/abs/2509.05515) | ---- |
+| 2025 | arXiv | **Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting** | [Paper](https://arxiv.org/abs/2509.05515) | ---- |  
 | 2025 | ICCV  | **LUDVIG: Learning-free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** | [Paper](https://arxiv.org/pdf/2410.14462) | [GitHub](https://github.com/naver/ludvig) |  
+| 2025 | WACV  | **Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation** | [Paper](https://arxiv.org/pdf/2502.00173) | ----- |  
+| 2025 | ACM MM  | **Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755146) | [GitHub](https://github.com/Atrovast/THGS) |  
