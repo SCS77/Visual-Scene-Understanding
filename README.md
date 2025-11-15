@@ -25,11 +25,16 @@
 | 2025 | arXiv | **VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction** | [Paper](https://arxiv.org/pdf/2510.19578) | ---- |
 | 2025 | ACM | **LVT: Large-Scale Scene Reconstruction via Local View Transformers** | [Paper](https://arxiv.org/pdf/2509.25001) | ---- |
 | 2025 | NeurIPS | **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles** | [Paper](https://arxiv.org/pdf/2505.21060) | [GitHub](https://github.com/WU-CVGL/Styl3R) |
+| 2025 | arXiv | **OmniVGGT: Omni-Modality Driven Visual Geometry Grounded** | [Paper](https://arxiv.org/pdf/2511.10560) | [GitHub](https://github.com/Livioni/OmniVGGT-offcial) |
 
 
 
 
-## [🚀 Scene Understanding](#scene-understanding)    
+
+
+## [🚀 Scene Understanding](#scene-understanding)  
+
+
 ### 🧠 (i) Per-Scene Optimization-based Methods  
 对每个场景的高斯点分配可学习属性，通过反向传播优化（如特征蒸馏、语言嵌入、分割学习、对齐等）
 
@@ -91,3 +96,27 @@
 | 2025 | ICCV  | **LUDVIG: Learning-free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** | [Paper](https://arxiv.org/pdf/2410.14462) | [GitHub](https://github.com/naver/ludvig) |  
 | 2025 | WACV  | **Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation** | [Paper](https://arxiv.org/pdf/2502.00173) | ----- |  
 | 2025 | ACM MM  | **Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755146) | [GitHub](https://github.com/Atrovast/THGS) |  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
