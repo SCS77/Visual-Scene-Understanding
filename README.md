@@ -101,7 +101,16 @@
 
 
 
-
+### NeurIPS 2025  
+| Year |  Date | Title  | Paper | Code |
+| ---- | ----- | ------ | ----- | -----|
+| 2025 | 03.29 | **Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2503.22204v2) | ---- |  
+| 2025 | 05.19  | **FHGS: Feature-Homogenized Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2505.19154) | ---- |  
+| 2025 | 06.08 | **SceneSplat++: A Large Dataset and Comprehensive   Benchmark for Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.08710) | [GitHub](https://github.com/unique1i/SceneSplat_Benchmark) |  
+| 2025 | 07.02 | **SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment** | [Paper](https://arxiv.org/abs/2507.02705) | [GitHub](https://github.com/WU-CVGL/SIU3R) |
+| 2025 | 07.07 | **LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS** | [Paper](https://arxiv.org/pdf/2507.07136) | [GitHub](https://github.com/ZhaoYujie2002/LangSplatV2) |  
+| 2025 | 10.23  | **Concerto- Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations** | [Paper](https://arxiv.org/pdf/2510.23607) | [GitHub](https://github.com/Pointcept/Concerto) |  
+| 2025 | 10.23 | **PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors** | [Paper](https://arxiv.org/pdf/2510.23930) | [GtiHub](https://github.com/SJTU-ViSYS-team/PlanarGS) |  
 
 
 
