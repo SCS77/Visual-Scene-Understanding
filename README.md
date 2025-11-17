@@ -94,8 +94,8 @@
 | 2025 | ICCV  | **LUDVIG: Learning-free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** | [Paper](https://arxiv.org/pdf/2410.14462) | [GitHub](https://github.com/naver/ludvig) |  
 | 2025 | WACV  | **Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation** | [Paper](https://arxiv.org/pdf/2502.00173) | ----- |  
 | 2025 | ACM MM  | **Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755146) | [GitHub](https://github.com/Atrovast/THGS) |  
-| 2025 | CVPR | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf) |  
-
+| 2025 | CVPR  | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf) | [GitHub](https://github.com/kaist-ami/Dr-Splat) |  
+   
 
 
 
