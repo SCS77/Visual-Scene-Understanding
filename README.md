@@ -34,7 +34,6 @@
 
 ## [🚀 Scene Understanding](#scene-understanding)  
 
-
 ### 🧠 (i) Per-Scene Optimization-based Methods  
 对每个场景的高斯点分配可学习属性，通过反向传播优化（如特征蒸馏、语言嵌入、分割学习、对齐等）
 
@@ -55,7 +54,6 @@
 | 2025 | CVPR    | **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**                                                         | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_End-to-End_2D_to_3D_Scene_Segmentation_in_Gaussian_Splatting_CVPR_2025_paper.pdf)                  | [GitHub](https://github.com/Runsong123/Unified-Lift)                        |
 | 2025 | CVPR    | **PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding**                                         | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhai_PanoGS_Gaussian-based_Panoptic_Segmentation_for_3D_Open_Vocabulary_Scene_Understanding_CVPR_2025_paper.pdf)  | [GitHub](https://github.com/zhaihongjia/PanoGS)                             |
 | 2025 | CVPR    | **InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception**                            | [Paper](https://arxiv.org/pdf/2411.19235)                                                                                                                                       | [GitHub](https://github.com/lhj-git/InstanceGasuusian_code)                 |
-| 2025 | CVPR    | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**                                  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf)             | [GitHub](https://github.com/kaist-ami/Dr-Splat)                             |
 | 2025 | CVPR    | **Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression**                                                  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Efficient_Decoupled_Feature_3D_Gaussian_Splatting_via_Hierarchical_Compression_CVPR_2025_paper.pdf)           | [GitHub](https://github.com/dai647/DF_3DGS)                                 |
 | 2025 | ICCV    | **CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**                                                       | [Paper](https://arxiv.org/pdf/2505.20469)                                                                                                                                       | ----                                                                        |
 | 2025 | ICCV    | **CF3: Compact and Fast 3D Feature Fields**                                                                                         | [Paper](https://arxiv.org/pdf/2508.05254)                                                                                                                                       | [GitHub](https://github.com/SNU-VGILab/CF3)                                 |
@@ -96,6 +94,14 @@
 | 2025 | ICCV  | **LUDVIG: Learning-free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** | [Paper](https://arxiv.org/pdf/2410.14462) | [GitHub](https://github.com/naver/ludvig) |  
 | 2025 | WACV  | **Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation** | [Paper](https://arxiv.org/pdf/2502.00173) | ----- |  
 | 2025 | ACM MM  | **Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755146) | [GitHub](https://github.com/Atrovast/THGS) |  
+| 2025 | CVPR | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf) |  
+
+
+
+
+
+
+
 
 
 
@@ -119,14 +125,6 @@
 | 2026 | 09.15 | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |  
 | 2026 | 09.16 | **QuantileRender: Efficiently Embedding High-Dimensional Features on 3D Gaussian Splatting** | [Paper](https://openreview.net/attachment?id=BncqszFjCb&name=pdf) | ---- |  
 | 2025 | 10.08 | **TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment** | [Paper](https://openreview.net/pdf?id=CbzCID5lkD) | ---- |  
-
-
-
-
-
-
-
-
 
 
 
