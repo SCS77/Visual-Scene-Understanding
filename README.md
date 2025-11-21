@@ -48,7 +48,8 @@
 | 2024 | CVPR    | **GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**                                                       | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_GaussianEditor_Swift_and_Controllable_3D_Editing_with_Gaussian_Splatting_CVPR_2024_paper.pdf)                | [GitHub](https://github.com/buaacyw/GaussianEditor)                         |
 | 2024 | CVPR    | **OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning**                                                     | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ying_OmniSeg3D_Omniversal_3D_Segmentation_via_Hierarchical_Contrastive_Learning_CVPR_2024_paper.pdf)              | [GitHub](https://github.com/OceanYing/OmniSeg3D-GS)                         |
 | 2024 | arXiv   | **SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians**                                                      | [Paper](https://arxiv.org/pdf/2412.10231)                                                                                                                                       | ----                                                                        |
-| 2024 | arXiv   | **CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**                                                     | [Paper](https://arxiv.org/pdf/2412.19142)                                                                                                                                       | ----                                                                        |
+| 2024 | arXiv   | **CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**                                                     | [Paper](https://arxiv.org/pdf/2412.19142)                                                                                                                                       |    ----                                                                        |  
+| 2024 | arXiv | **LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2412.17635) | [GitHub](https://github.com/lifuguan/LangSurf) |  
 | 2025 | AAAI    | **Segment Any 3D Gaussians**                                                                                                        | [Paper](https://arxiv.org/pdf/2312.00860)                                                                                                                                       | [GitHub](https://github.com/Jumpat/SegAnyGAussians)                         |
 | 2025 | CVPR    | **4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**                                               | [Paper](https://arxiv.org/pdf/2503.10437)                                                                                                                                       | [GitHub](https://github.com/zrporz/4DLangSplat)                             |
 | 2025 | CVPR    | **Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**                                                         | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Rethinking_End-to-End_2D_to_3D_Scene_Segmentation_in_Gaussian_Splatting_CVPR_2025_paper.pdf)                  | [GitHub](https://github.com/Runsong123/Unified-Lift)                        |
@@ -88,7 +89,6 @@
 
 | Year | J/C   | Title  | Paper | Code |
 | ---- | ----- | ------ | ----- | -----|
-| 2024 | arXiv | **LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2412.17635) | [GitHub](https://github.com/lifuguan/LangSurf) |  
 | 2024 | arXiv | **Occam's LGS: An Efficient Approach for Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2412.01807) | [GitHub](https://github.com/insait-institute/OccamLGS) |  
 | 2025 | arXiv | **Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting** | [Paper](https://arxiv.org/abs/2509.05515) | ---- |  
 | 2025 | ICCV  | **LUDVIG: Learning-free Uplifting of 2D Visual Features to Gaussian Splatting Scenes** | [Paper](https://arxiv.org/pdf/2410.14462) | [GitHub](https://github.com/naver/ludvig) |  
@@ -96,6 +96,7 @@
 | 2025 | ACM MM  | **Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755146) | [GitHub](https://github.com/Atrovast/THGS) |  
 | 2025 | CVPR  | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf) | [GitHub](https://github.com/kaist-ami/Dr-Splat) |  
    
+
 
 
 
