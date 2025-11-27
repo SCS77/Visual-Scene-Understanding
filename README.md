@@ -27,7 +27,7 @@
 | 2025 | NeurIPS | **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles** | [Paper](https://arxiv.org/pdf/2505.21060) | [GitHub](https://github.com/WU-CVGL/Styl3R) |
 | 2025 | arXiv | **OmniVGGT: Omni-Modality Driven Visual Geometry Grounded** | [Paper](https://arxiv.org/pdf/2511.10560) | [GitHub](https://github.com/Livioni/OmniVGGT-offcial) |
 | 2025 | arXiv | **Depth Anything 3: Recovering the Visual Space from Any Views** | [Paper](https://arxiv.org/abs/2511.10647) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |
-
+| 2025 | arXiv | **AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend** | [Paper](https://arxiv.org/pdf/2511.20343) | [GitHub](https://github.com/HengyiWang/amb3r) |  
 
 
 
