@@ -151,6 +151,8 @@
 
 
 
-### Medical
+### Medical  
+| Year |  Date | Title  | Paper | Code |
+| ---- | ----- | ------ | ----- | -----|
 | 2026 | ICLR    | **SURGRE4DGS: Open-Vocabulary Vision-Language Gaussian Splatting for Retrievable 4D Surgical Scene Reconstruction**                 | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww)                                                                                                                               | ----                                                                        |  
 | 2025 | MICCAI | **SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.23309) | [GtiHub](https://github.com/lastbasket/SurgTPGS) |  
