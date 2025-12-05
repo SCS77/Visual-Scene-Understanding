@@ -28,7 +28,7 @@
 | 2025 | arXiv | **OmniVGGT: Omni-Modality Driven Visual Geometry Grounded** | [Paper](https://arxiv.org/pdf/2511.10560) | [GitHub](https://github.com/Livioni/OmniVGGT-offcial) |
 | 2025 | arXiv | **Depth Anything 3: Recovering the Visual Space from Any Views** | [Paper](https://arxiv.org/abs/2511.10647) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |  
 | 2025 | arXiv | **AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend** | [Paper](https://arxiv.org/pdf/2511.20343) | [GitHub](https://github.com/HengyiWang/amb3r) |  
-
+| 2025 | arXiv | **Emergent Outlier View Rejection in Visual Geometry Grounded Transformers** | [Paper](https://arxiv.org/pdf/2512.04012) | [GitHub](https://github.com/cvlab-kaist/RobustVGGT) |
 
 
 
