@@ -26,7 +26,7 @@
 | 2025 | ACM | **LVT: Large-Scale Scene Reconstruction via Local View Transformers** | [Paper](https://arxiv.org/pdf/2509.25001) | ---- |
 | 2025 | NeurIPS | **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles** | [Paper](https://arxiv.org/pdf/2505.21060) | [GitHub](https://github.com/WU-CVGL/Styl3R) |
 | 2025 | arXiv | **OmniVGGT: Omni-Modality Driven Visual Geometry Grounded** | [Paper](https://arxiv.org/pdf/2511.10560) | [GitHub](https://github.com/Livioni/OmniVGGT-offcial) |
-| 2025 | arXiv | **Depth Anything 3: Recovering the Visual Space from Any Views** | [Paper](https://arxiv.org/abs/2511.10647) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |
+| 2025 | arXiv | **Depth Anything 3: Recovering the Visual Space from Any Views** | [Paper](https://arxiv.org/abs/2511.10647) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |  
 | 2025 | arXiv | **AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend** | [Paper](https://arxiv.org/pdf/2511.20343) | [GitHub](https://github.com/HengyiWang/amb3r) |  
 
 
@@ -84,8 +84,12 @@
 | 2025 | ICCV | **VoteSplat- Hough Voting Gaussian Splatting for 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2506.22799v1)  | ----- |  
 | 2025 | arXiv | **ShelfGaussian: Shelf-Supervised Open-Vocabulary Gaussian-based 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2512.03370)  | [GitHub](https://lunarlab-gatech.github.io/ShelfGaussian/) |  
 | 2025 | arXiv | **C3G: Learning Compact 3D Representations with 2K Gaussians** | [Paper](https://arxiv.org/pdf/2512.04021)  | [GitHub](https://github.com/cvlab-kaist/C3G) |  
+| 2025 | CVPRW  | **DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation** | [Paper](https://arxiv.org/pdf/2503.18944)  | [GitHub](https://github.com/VisualComputingInstitute/DITR) |  
+| 2025 | NeurIPS | **HouseLayout3D: A Benchmark and Training-Free Baseline for 3D Layout Estimation in the Wild** | [Paper](https://arxiv.org/pdf/2512.02450)  | [GitHub](https://github.com/HouseLayout3D/houselayout3d) |  
+| 2025 | NeurIPS | **HouseLayout3D: A Benchmark and Training-Free Baseline for 3D Layout Estimation in the Wild** | [Paper](https://arxiv.org/pdf/2512.02450)  | [GitHub](https://github.com/HouseLayout3D/houselayout3d) |  
+| 2025 | CVPRW | **Segment Any Primitive-Zero-Shot 3D Primitive Segmentation from Point Cloud** | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/OpenSUN3D/papers/Bai_Segment_Any_Primitive_Zero-Shot_3D_Primitive_Segmentation_from_Point_Cloud_CVPRW_2025_paper.pdf)  | ---- |  
+| 2024 | CCVPR | **MaskClustering- View Consensus based Mask Graph Clustering for Open-Vocabulary 3D Instance Segmentation** | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_MaskClustering_View_Consensus_based_Mask_Graph_Clustering_for_Open-Vocabulary_3D_CVPR_2024_paper.pdf)  | [GitHub](https://github.com/PKU-EPIC/MaskClustering) |  
 | 2026 | ICLR    | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting**                                                          | [Paper](https://openreview.net/pdf?id=y72GwPF8YO)                                                                                                                               | ----                                                                        |
-| 2026 | ICLR    | **SURGRE4DGS: Open-Vocabulary Vision-Language Gaussian Splatting for Retrievable 4D Surgical Scene Reconstruction**                 | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww)                                                                                                                               | ----                                                                        |
 | 2026 | ICLR    | **QuantileRender: Efficiently Embedding High-Dimensional Features on 3D Gaussian Splatting**                                        | [Paper](https://openreview.net/attachment?id=BncqszFjCb&name=pdf)                                                                                                               | ----                                                                        |
 
 
@@ -129,6 +133,10 @@
 | 2025 | 07.07 | **LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS** | [Paper](https://arxiv.org/pdf/2507.07136) | [GitHub](https://github.com/ZhaoYujie2002/LangSplatV2) |  
 | 2025 | 10.23  | **Concerto- Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations** | [Paper](https://arxiv.org/pdf/2510.23607) | [GitHub](https://github.com/Pointcept/Concerto) |  
 | 2025 | 10.23 | **PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors** | [Paper](https://arxiv.org/pdf/2510.23930) | [GtiHub](https://github.com/SJTU-ViSYS-team/PlanarGS) |  
+| 2025 | 12.02 | **HouseLayout3D: A Benchmark and Training-Free Baseline for 3D Layout Estimation in the Wild** | [Paper](https://arxiv.org/pdf/2512.02450)  | [GitHub](https://github.com/HouseLayout3D/houselayout3d) |  
+| 2025 | 05.19 | **FHGS: Feature-Homogenized Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2505.19154)  | [GitHub](https://fhgs.cuastro.org/)  |  
+
+
 
 
 
@@ -138,6 +146,11 @@
 | 2026 | 09.15 | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting** | [Paper](https://openreview.net/pdf?id=y72GwPF8YO) | ---- |  
 | 2026 | 09.16 | **QuantileRender: Efficiently Embedding High-Dimensional Features on 3D Gaussian Splatting** | [Paper](https://openreview.net/attachment?id=BncqszFjCb&name=pdf) | ---- |  
 | 2025 | 10.08 | **TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment** | [Paper](https://openreview.net/pdf?id=CbzCID5lkD) | ---- |  
+| 2025 | 06.06 | **HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction** | [Paper](https://arxiv.org/pdf/2506.06822)  | [GitHub](https://github.com/Open3DVLab/HiSplat) |  
 
 
 
+
+### Medical
+| 2026 | ICLR    | **SURGRE4DGS: Open-Vocabulary Vision-Language Gaussian Splatting for Retrievable 4D Surgical Scene Reconstruction**                 | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww)                                                                                                                               | ----                                                                        |  
+| 2025 | MICCAI | **SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.23309) | [GtiHub](https://github.com/lastbasket/SurgTPGS) |  
