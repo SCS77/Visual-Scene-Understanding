@@ -29,6 +29,13 @@
 | 2025 | arXiv | **Depth Anything 3: Recovering the Visual Space from Any Views** | [Paper](https://arxiv.org/abs/2511.10647) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |  
 | 2025 | arXiv | **AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend** | [Paper](https://arxiv.org/pdf/2511.20343) | [GitHub](https://github.com/HengyiWang/amb3r) |  
 | 2025 | arXiv | **Emergent Outlier View Rejection in Visual Geometry Grounded Transformers** | [Paper](https://arxiv.org/pdf/2512.04012) | [GitHub](https://github.com/cvlab-kaist/RobustVGGT) |
+| 2025 | arXiv | **VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction** | [Paper](https://arxiv.org/pdf/2511.19971) | [GitHub](https://github.com/3DAgentWorld/VGGT4D) |  
+| 2025 | arXiv | **4DLangVGGT: 4D Language Visual Geometry Grounded Transformer** | [Paper](https://arxiv.org/pdf/2512.04012) | [GitHub](https://github.com/hustvl/4DLangVGGT) |  
+| 2025 | arXiv | **GVLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning** | [Paper](https://arxiv.org/abs/2511.21688) | [GitHub](https://github.com/InternRobotics/G2VLM) |  
+| 2025 | arXiv | **PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image** | [Paper](https://arxiv.org/abs/2511.13648) | [GitHub](https://github.com/ziangcao0312/PhysX-Anything) |  
+| 2025 | arXiv | **PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception** | [Paper](https://arxiv.org/abs/2510.17568) | [GitHub](https://page-4d.github.io/anonymous-submission/) |  
+
+
 
 
 
