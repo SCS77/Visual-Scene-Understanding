@@ -162,3 +162,11 @@
 | ---- | ----- | ------ | ----- | -----|
 | 2026 | ICLR    | **SURGRE4DGS: Open-Vocabulary Vision-Language Gaussian Splatting for Retrievable 4D Surgical Scene Reconstruction**                 | [Paper](https://openreview.net/pdf?id=xgdPfzy9Ww)                                                                                                                               | ----                                                                        |  
 | 2025 | MICCAI | **SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.23309) | [GtiHub](https://github.com/lastbasket/SurgTPGS) |  
+
+
+
+
+### Anomaly Detection
+| Year |  Date | Title  | Paper | Code |
+| ---- | ----- | ------ | ----- | -----|
+| 2025 | CEA | **Research on inferior litchi fruit detection in orchards based on YOLOv8n-BLS** | [Paper](https://www.sciencedirect.com/science/article/pii/S0168169925008427) | ----- |  
