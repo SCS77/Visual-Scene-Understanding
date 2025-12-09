@@ -132,6 +132,7 @@
 ### NeurIPS 2025  
 | Year |  Date | Title  | Paper | Code |
 | ---- | ----- | ------ | ----- | -----|
+| 2024 | 10.18 | **Large Spatial Model: End-to-end Unposed Images to Semantic 3D** | [Paper](https://arxiv.org/pdf/2410.18956) | [GitHub](https://github.com/NVlabs/LSM) |  
 | 2025 | 03.29 | **Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2503.22204v2) | ---- |  
 | 2025 | 05.19  | **FHGS: Feature-Homogenized Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2505.19154) | ---- |  
 | 2025 | 06.08 | **SceneSplat++: A Large Dataset and Comprehensive   Benchmark for Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2506.08710) | [GitHub](https://github.com/unique1i/SceneSplat_Benchmark) |  
