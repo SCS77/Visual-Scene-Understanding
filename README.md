@@ -100,7 +100,8 @@
 | 2025 | ICML | **Tackling View-Dependent Semantics in 3D Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2505.24746)  | [GitHub](https://github.com/SJTU-DeepVisionLab/LaGa) |  
 | 2025 | arXiv | **FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views** | [Paper](https://arxiv.org/pdf/2512.17541)  | ----- |  
 | 2025 | ACM TOG | **2025-ACM-AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views** | [Paper](https://arxiv.org/pdf/2505.23716)  | [GitHub](https://github.com/InternRobotics/AnySplat) |  
-
+| 2025 | arXiv | **Self-Supervised and Generalizable Tokenization for CLIP-Based 3D Understanding** | [Paper](https://arxiv.org/pdf/2505.18819)  | ----- |  
+| 2025 | arXiv | **POMA-3D: The Point Map Way to 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2511.16567v1)  | ----- |  
 
 
 
