@@ -98,7 +98,8 @@
 | 2026 | ICLR    | **FineSplat: Fine-Grained 3D Open-Vocabulary Language Gaussian Splatting**                                                          | [Paper](https://openreview.net/pdf?id=y72GwPF8YO)                                                                                                                               | ----                                                                        |
 | 2026 | ICLR    | **QuantileRender: Efficiently Embedding High-Dimensional Features on 3D Gaussian Splatting**                                        | [Paper](https://openreview.net/attachment?id=BncqszFjCb&name=pdf)                                                                                                               | ----                                                                        |  
 | 2025 | ICML | **Tackling View-Dependent Semantics in 3D Language Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2505.24746)  | [GitHub](https://github.com/SJTU-DeepVisionLab/LaGa) |  
-
+| 2025 | arXiv | **FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views** | [Paper](https://arxiv.org/pdf/2512.17541)  | ----- |  
+| 2025 | ACM TOG | **2025-ACM-AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views** | [Paper](https://arxiv.org/pdf/2505.23716)  | [GitHub](https://github.com/InternRobotics/AnySplat) |  
 
 
 
@@ -118,6 +119,7 @@
 | 2025 | WACV  | **Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation** | [Paper](https://arxiv.org/pdf/2502.00173) | ----- |  
 | 2025 | ACM MM  | **Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs** | [Paper](https://dl.acm.org/doi/pdf/10.1145/3746027.3755146) | [GitHub](https://github.com/Atrovast/THGS) |  
 | 2025 | CVPR  | **Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Jun-Seong_Dr._Splat_Directly_Referring_3D_Gaussian_Splatting_via_Direct_Language_CVPR_2025_paper.pdf) | [GitHub](https://github.com/kaist-ami/Dr-Splat) |  
+| 2025 | arXiv | **Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding** | [Paper](https://arxiv.org/pdf/2512.17817v1)  | ----- |     
    
 
 
