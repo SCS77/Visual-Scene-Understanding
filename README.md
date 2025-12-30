@@ -103,7 +103,7 @@
 | 2025 | arXiv | **Self-Supervised and Generalizable Tokenization for CLIP-Based 3D Understanding** | [Paper](https://arxiv.org/pdf/2505.18819)  | ----- |  
 | 2025 | arXiv | **POMA-3D: The Point Map Way to 3D Scene Understanding** | [Paper](https://arxiv.org/pdf/2511.16567v1)  | ----- |  
 | 2025 | arXiv | **Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2512.20927v1)  | ----- |  
-
+| 2025 | arXiv | **Monet: Reasoning in Latent Visual Space Beyond Images and Language** | [Paper](https://arxiv.org/pdf/2511.21395)  | [GitHub](https://github.com/NOVAglow646/Monet) |  
 
 
 
