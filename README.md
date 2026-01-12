@@ -34,7 +34,7 @@
 | 2025 | arXiv | **GVLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning** | [Paper](https://arxiv.org/abs/2511.21688) | [GitHub](https://github.com/InternRobotics/G2VLM) |  
 | 2025 | arXiv | **PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image** | [Paper](https://arxiv.org/abs/2511.13648) | [GitHub](https://github.com/ziangcao0312/PhysX-Anything) |  
 | 2025 | arXiv | **PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception** | [Paper](https://arxiv.org/abs/2510.17568) | [GitHub](https://page-4d.github.io/anonymous-submission/) |  
-
+| 2025 | CVPR | **Feat2GS: Probing Visual Foundation Models with Gaussian Splatting** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Feat2GS_Probing_Visual_Foundation_Models_with_Gaussian_Splatting_CVPR_2025_paper.pdf)  | [GitHub](https://github.com/fanegg/Feat2GS) |  
 
 
 
@@ -105,7 +105,7 @@
 | 2025 | arXiv | **Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2512.20927v1)  | ----- |  
 | 2025 | arXiv | **Monet: Reasoning in Latent Visual Space Beyond Images and Language** | [Paper](https://arxiv.org/pdf/2511.21395)  | [GitHub](https://github.com/NOVAglow646/Monet) |  
 | 2025 | arXiv | **UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning** | [Paper](https://arxiv.org/pdf/2512.24763)  | [GitHub](https://github.com/val-iisc/UniC-Lift) |  
-| 2025 | CVPR | **Feat2GS: Probing Visual Foundation Models with Gaussian Splatting** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Feat2GS_Probing_Visual_Foundation_Models_with_Gaussian_Splatting_CVPR_2025_paper.pdf)  | [GitHub](https://github.com/fanegg/Feat2GS) |  
+
 
 
 
