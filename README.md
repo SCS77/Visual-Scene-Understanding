@@ -105,6 +105,11 @@
 | 2025 | arXiv | **Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting** | [Paper](https://arxiv.org/pdf/2512.20927v1)  | ----- |  
 | 2025 | arXiv | **Monet: Reasoning in Latent Visual Space Beyond Images and Language** | [Paper](https://arxiv.org/pdf/2511.21395)  | [GitHub](https://github.com/NOVAglow646/Monet) |  
 | 2025 | arXiv | **UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning** | [Paper](https://arxiv.org/pdf/2512.24763)  | [GitHub](https://github.com/val-iisc/UniC-Lift) |  
+| 2025 | CVPR | **Feat2GS: Probing Visual Foundation Models with Gaussian Splatting** | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Feat2GS_Probing_Visual_Foundation_Models_with_Gaussian_Splatting_CVPR_2025_paper.pdf)  | [GitHub](https://github.com/fanegg/Feat2GS) |  
+
+
+
+
 
 
 
