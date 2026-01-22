@@ -210,9 +210,27 @@
 | 2025 | CVPR | **All in One: Visual-Description-Guided Unified Point Cloud Segmentation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=All+in+One%3A+Visual-Description-Guided+Unified+Point+Cloud+Segmentation&btnG=) | [GtiHub](https://github.com/Hanzy1996/VDG-Uni3DSeg) |  
 | 2026 | arxiv | **MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MVGGT%3A+Multimodal+Visual+Geometry+Grounded+Transformer+for+Multiview+3D+Referring+Expression+Segmentation&btnG=) | [GtiHub](https://github.com/sosppxo/mvggt) |  
 | 2026 | arxiv | **3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=3D+CoCa+v2%3A+Contrastive+Learners+with+Test-Time+Search+for+Generalizable+Spatial+Intelligence&btnG=) | [GtiHub](https://github.com/AIGeeksGroup/3DCoCav2.) |  
+| 2025 | NeurlPS | **SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SegGraph%3A+Leveraging+Graphs+of+SAM+Segments+for+Few-Shot+3D+Part+Segmentation&btnG=) | [GtiHub](https://github.com/YueyangHu-2000/SegGraph) |  
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+### 3D Fusion
+### Point cloud segmentation
+| Year |  Date | Title  | Paper | Code |
+| ---- | ----- | ------ | ----- | -----|
+| 2025 | arxiv | **Automated 3D-GS Registration and Fusion via Skeleton Alignment and Gaussian-Adaptive Features** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Automated+3D-GS+Registration+and+Fusion+via+Skeleton+Alignment+and+Gaussian-Adaptive+Features&btnG=) | ----- |  
+| 2025 | SIGGRAPH | **EGG-Fusion: Efficient 3D Reconstruction with Geometry-aware Gaussian Surfel on the Fly** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=EGG-Fusion-+Efficient+3D+Reconstruction+with+Geometry-aware+Gaussian+Surfel+on+the+Fly&btnG=) | [GtiHub](https://github.com/panxkun/eggfusion) |  
+| 2025 | arxiv | **FaithFusion: Harmonizing Reconstruction and Generation via Pixel-wise Information Gain** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=FaithFusion-+Harmonizing+Reconstruction+and+Generation+via+Pixel-wise+Information+Gain&btnG=) | [GtiHub](https://github.com/wangyuanbiubiubiu/FaithFusion) |  
+| 2025 | arxiv | **PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PFGS-+Pose-Fused+3D+Gaussian+Splatting+for+Complete+Multi-Pose+Object+Reconstruction&btnG=) | ---- |  
+| 2026 | arxiv | **ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ProFuse-+Efficient+Cross-View+Context+Fusion+for+Open-Vocabulary+3D+Gaussian+Splatting&btnG=) | [GtiHub](https://github.com/chiou1203/ProFuse) |  
