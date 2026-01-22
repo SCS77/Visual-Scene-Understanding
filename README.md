@@ -226,7 +226,6 @@
 
 
 ### 3D Fusion
-### Point cloud segmentation
 | Year |  Date | Title  | Paper | Code |
 | ---- | ----- | ------ | ----- | -----|
 | 2025 | arxiv | **Automated 3D-GS Registration and Fusion via Skeleton Alignment and Gaussian-Adaptive Features** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Automated+3D-GS+Registration+and+Fusion+via+Skeleton+Alignment+and+Gaussian-Adaptive+Features&btnG=) | ----- |  
