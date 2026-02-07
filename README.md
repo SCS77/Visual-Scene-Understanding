@@ -38,8 +38,8 @@
 | 2025 | arXiv | **IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=IGGT%3A+Instance-Grounded+Geometry+Transformer+for+Semantic+3D+Reconstruction&btnG=) | [GitHub](https://github.com/lifuguan/IGGT_official) |  
 | 2026 | arXiv | **V-DPM: 4D Video Reconstruction with Dynamic Point Maps** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=V-DPM%3A+4D+Video+Reconstruction+with+Dynamic+Point+Maps&btnG=) | [GitHub](https://github.com/eldar/vdpm) |   
 | 2025 | arXiv | **PanSt3R: Multi-view Consistent Panoptic Segmentation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PanSt3R%3A+Multi-view+Consistent+Panoptic+Segmentation&btnG=) | ---- |   
-
-
+| 2025 | NeurIPS | **RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RaySt3R%3A+Predicting+Novel+Depth+Maps+for+Zero-Shot+Object+Completion&btnG=) | [GitHub](https://github.com/Duisterhof/rayst3r) |  
+| 2026 | arXiv | **VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=VGGT-SLAM+2.0%3A+Real+time+Dense+Feed-forward+Scene+Reconstruction&btnG=) | ---- |  
 
 
 
@@ -56,7 +56,16 @@
 | 2025 | ACM | **Casual3DHDR: High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Casual3DHDR%3A+High+Dynamic+Range+3D+Gaussian+Splatting+from+casually-captured+Videos&btnG=) | [GitHub](https://github.com/WU-CVGL/CasualHDRSplat) |  
 | 2025 | arXiv | **VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=VIGS-SLAM%3A+Visual+Inertial+Gaussian+Splatting+SLAM&btnG=) | [GitHub](https://vigs-slam.github.io/) |  
 | 2026 | arXiv | **GaussExplorer: 3D Gaussian Splatting for Embodied Exploration and Reasoning** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaussExplorer%3A+3D+Gaussian+Splatting+for+Embodied+Exploration+and+Reasoning&btnG=) | [GitHub](https://vigs-slam.github.io/) |  
-| 2025 | ICRAA | **Hier-slam: Scaling-up semantics in slam with a hierarchically categorical gaussian splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Hier-SLAM%3A+Scaling-up+Semantics+in+SLAM+with+a+Hierarchically+Categorical+Gaussian+Splatting&btnG=) | [GitHub](https://github.com/LeeBY68/Hier-SLAM) |  
+| 2025 | ICRA | **Hier-slam: Scaling-up semantics in slam with a hierarchically categorical gaussian splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Hier-SLAM%3A+Scaling-up+Semantics+in+SLAM+with+a+Hierarchically+Categorical+Gaussian+Splatting&btnG=) | [GitHub](https://github.com/LeeBY68/Hier-SLAM) |  
+| 2026 | arXiv | **EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=EVolSplat4D%3A+Efficient+Volume-based+Gaussian+Splatting+for+4D+Urban+Scene+Synthesis&btnG=) | [GitHub](https://xdimlab.github.io/EVolSplat4D/) |  
+| 2025 | CVPR | **NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=NexusGS%3A+Sparse+View+Synthesis+with+Epipolar+Depth+Priors+in+3D+Gaussian+Splatting&btnG=) | [GitHub](https://github.com/USMizuki/NexusGS) |  
+| 2026 | arXiv | **SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SplatBus%3A+A+Gaussian+Splatting+Viewer+Framework+via+GPU+Interprocess+Communication&btnG=) | [GitHub](https://github.com/RockyXu66/splatbus) |  
+| 2026 | ICRL | **Mesh Splatting for End-to-end Multiview Surface Reconstruction** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MESH+SPLATTING+FOR+END+-+TO+-+END+MULTIVIEW+SURFACE+RECONSTRUCTION&btnG=) | ---- |  
+| 2025 | arXiv | **Towards Physically Executable 3D Gaussian for Embodied Navigation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SAGE-3D%3A+Towards+Physically+Executable+3D+Gaussian+for+Embodied+Navigation&btnG=) | [GitHub](https://github.com/Galery23/SAGE-3D_Official) |  
+| 2025 | arXiv | **GaussianVision: Vision-Language Alignment from Compressed Image Representations using 2D Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaussianVision%3A+Vision-Language+Alignment+from+Compressed+Image+Representations+using+2D+Gaussian+Splatting&btnG=) | ---- |  
+| 2026 | arXiv | **Towards Next-Generation SLAM: A Survey on 3DGS-SLAM Focusing on Performance, Robustness, and Future Directions** | [Paper](https://arxiv.org/abs/2602.04251) | ---- |  
+
+
 
 
 
@@ -72,7 +81,6 @@
 ## [🚀 Scene Understanding](#scene-understanding)  
 
 ### 🧠 (i) Per-Scene Optimization-based Methods  
-对每个场景的高斯点分配可学习属性，通过反向传播优化（如特征蒸馏、语言嵌入、分割学习、对齐等）
 
 
 | Year | J/C  | Title | Paper | Code  |
@@ -85,7 +93,7 @@
 | 2024 | CVPR | **GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GaussianEditor%3A+Swift+and+Controllable+3D+Editing+with+Gaussian+Splatting&btnG=) | [GitHub](https://github.com/buaacyw/GaussianEditor) |  
 | 2024 | CVPR | **OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=OmniSeg3D%3A+Omniversal+3D+Segmentation+via+Hierarchical+Contrastive+Learning&btnG=) | [GitHub](https://github.com/OceanYing/OmniSeg3D-GS) |  
 | 2024 | arXiv | **SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SuperGSeg%3A+Open-Vocabulary+3D+Segmentation+with+Structured+Super-Gaussians&btnG=) | ----- |  
-| 2024 | arXiv | **CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=CLIP-GS%3A+Unifying+Vision-Language+Representation+with+3D+Gaussian+Splatting&btnG=) |    ----- |  
+| 2025 | ICCV | **CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=CLIP-GS%3A+Unifying+Vision-Language+Representation+with+3D+Gaussian+Splatting&btnG=) |    ----- |  
 | 2024 | arXiv | **LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LangSurf%3A+Language-Embedded+Surface+Gaussians+for+3D+Scene+Understanding&btnG=) | [GitHub](https://github.com/lifuguan/LangSurf) |  
 | 2025 |  AAAI | **Segment Any 3D Gaussians** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Segment+Any+3D+Gaussians&btnG=) | [GitHub](https://github.com/Jumpat/SegAnyGAussians) |
 | 2025 |  CVPR | **4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=4D+LangSplat%3A+4D+Language+Gaussian+Splatting+via+Multimodal+Large+Language+Models&btnG=) | [GitHub](https://github.com/zrporz/4DLangSplat) |  
@@ -136,6 +144,8 @@
 | 2025 | arXiv | **Monet: Reasoning in Latent Visual Space Beyond Images and Language** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Monet%3A+Reasoning+in+Latent+Visual+Space+Beyond+Images+and+Language&btnG=)  | [GitHub](https://github.com/NOVAglow646/Monet) |  
 | 2025 | arXiv | **UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=UniC-Lift%3A+Unified+3D+Instance+Segmentation+via+Contrastive+Learning&btnG=)  | [GitHub](https://github.com/val-iisc/UniC-Lift) |  
 | 2026 | arXiv | **FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=FeatureSLAM%3A+Feature-enriched+3D+gaussian+splatting+SLAM+in+real+time&btnG=)  | ..... |  
+| 2025 | ICCV | **Joint Semantic and Rendering Enhancements in 3D Gaussian Modeling with Anisotropic Local Encoding** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Joint+Semantic+and+Rendering+Enhancements+in+3D+Gaussian+Modeling+with+Anisotropic+Local+Encoding&btnG=)  | [GitHub](https://github.com/fly519/JSRE) |  
+| 2025 | ICCV | **Online Language Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Online+Language+Splatting&btnG=)  | [GitHub](https://github.com/rpng/online_lang_splatting) |  
 
 
 
@@ -145,7 +155,6 @@
 
 ### ⚡ (ii) Per-Scene Optimization-Free Methods
 
-无需场景训练，采用训练/优化-free 方法，将2D特征直接uplift或聚合到3D高斯上（仅单次前向渲染）
 
 
 | Year | J/C   | Title  | Paper | Code |
@@ -294,7 +303,7 @@
 | 2025 | ICCV | **FaceLift: Learning generalizable single image 3D face reconstruction from synthetic heads** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=FaceLift%3A+Learning+generalizable+single+image+3D+face+reconstruction+from+synthetic+heads&btnG=)| [GtiHub](https://github.com/weijielyu/FaceLift) |  
 | 2025 | CVPR | **3D Gaussian Head Avatars with Expressive Dynamic Appearances by Compact Tensorial Representations** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=3D+Gaussian+Head+Avatars+with+Expressive+Dynamic+Appearances+by+Compact+Tensorial+Representations&btnG=) | ---- |  
 | 2025 | CVPR | **GEM - Gaussian Eigen Models for Human Heads** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=GEM%3A+Gaussian+Eigen+Models+for+Human+Heads&btnG=) | [GtiHub](https://github.com/Zielon/GEM) |  
-
+| 2026 | arxiv | **LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LayerGS%3A+Decomposition+and+Inpainting+of+Layered+3D+Human+Avatars+via+2D+Gaussian+Splatting&btnG=) | [GtiHub](https://github.com/RockyXu66/LayerGS) |  
 
 
 
@@ -314,7 +323,7 @@
 | 2025 | TPAMI | **DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DC-SAM%3A+In-Context+Segment+Anything+in+Images+and+Videos+via+Dual+Consistency&btnG=) | [GtiHub](https://github.com/zaplm/DC-SAM) |  
 | 2026 | arxiv | **360Anything: Geometry-Free Lifting of Images and Videos to 360°** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=360Anything%3A+Geometry-Free+Lifting+of+Images+and+Videos+to+360%C2%B0&btnG=) | [GtiHub](https://360anything.github.io/) |  
 | 2026 | arxiv | **Fusing in 3D: Free-Viewpoint Fusion Rendering with a 3D Infrared-Visible Scene Representation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=FUSING+IN+3D%3A+FREE-VIEWPOINT+FUSION+RENDERING+WITH+A+3D+INFRARED-VISIBLE+SCENE+REPRESENTATION&btnG=) | ---- |  
-
+| 2025 | arxiv | **What is the best 3d scene representation for robotics? from geometric to foundation models°** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=What+Is+The+Best+3D+Scene+Representation+for+Robotics%3F+From+Geometric+to+Foundation+Models&btnG=) | [GtiHub](https://github.com/dtc111111/awesome-representation-for-robotics) |  
 
 
 
