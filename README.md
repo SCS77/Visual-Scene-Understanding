@@ -352,6 +352,8 @@
 | 2026 | arxiv | **Fusing in 3D: Free-Viewpoint Fusion Rendering with a 3D Infrared-Visible Scene Representation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=FUSING+IN+3D%3A+FREE-VIEWPOINT+FUSION+RENDERING+WITH+A+3D+INFRARED-VISIBLE+SCENE+REPRESENTATION&btnG=) | ---- |  
 | 2025 | arxiv | **What is the best 3d scene representation for robotics? from geometric to foundation models°** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=What+Is+The+Best+3D+Scene+Representation+for+Robotics%3F+From+Geometric+to+Foundation+Models&btnG=) | [GtiHub](https://github.com/dtc111111/awesome-representation-for-robotics) |  
 | 2025 | CVPR | **Pop-gs: Next best view in 3d-gaussian splatting with p-optimality** | [Paper](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=POp-GS%3A+Next+Best+View+in+3D-Gaussian+Splatting+with+P-Optimality&btnG=) | ---- |  
+| 2026 | ICRL | **AnyUp: Universal Feature Upsampling** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AnyUp%3A+Universal+Feature+Upsampling&btnG=) | [GtiHub](https://github.com/wimmerth/anyup) |  
+
 
 
 
