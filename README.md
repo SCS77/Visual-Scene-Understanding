@@ -48,14 +48,11 @@
 | 2025 | arXiv | **VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=VGGT-Long%3A+Chunk+it%2C+Loop+it%2C+Align+it+--+Pushing+VGGT%27s+Limits+on+Kilometer-scale+Long+RGB+Sequences&btnG=) | [GitHub](https://github.com/DengKaiCQ/VGGT-Long) |  
 | 2026 | CVPR | **RnG: A Unified Transformer for Complete 3D Modeling from Partial Observations** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=RnG%3A+AUnified+Transformer+for+Complete+3D+Modeling+from+Partial+Observations&btnG=) | [GitHub](https://github.com/XiangMochu/RnG) |  
 | 2026 | arXiv | **InSpatio-WorldFM: An Open-Source Real-Time Generative Frame Model** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=InSpatio-WorldFM%3A+An+Open-Source+Real-Time+Generative+Frame+Model&btnG=) | [Project](https://inspatio.github.io/worldfm/) |  
-| 2025 | ACM TOG | **Adaptive Phase-Field-FLIP for Very Large Scale Two-Phase Fluid Simulation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Adaptive+Phase-Field-FLIP+for+Very+Large+Scale+Two-Phase+FluidSimulation&btnG=) | ---- |  
 | 2026 | CVPR | **PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PanoVGGT%3A+Feed-Forward+3D+Reconstruction+from+Panoramic+Imagery&btnG=) | [GitHub](https://github.com/YijingGuo-June/PanoVGGT) |  
 | 2026 | CVPR | **Pe3r: Perception-efficient 3D Reconstruction** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PE3R%3A+Perception-Efficient+3D+Reconstruction&btnG=) | [GitHub](https://github.com/hujiecpp/PE3R) |  
 | 2026 | arXiv | **OVGGT: O(1) Constant-Cost Streaming Visual Geometry Transformer** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=OVGGT%3A+O%281%29+Constant-Cost+Streaming+Visual+Geometry+Transformer&btnG=) | [Project](https://vaisr.github.io/OVGGT/) |  
-| 2024 | arXiv | **Physics-informed machine learning for seismic response prediction of nonlinear steel moment resisting frame structures** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PHYSICS-INFORMED+MACHINE+LEARNING+FOR+SEISMIC+RESPONSE+PREDICTION+OF+NONLINEAR+STEEL+MOMENT+RESISTING+FRAME+STRUCTURES&btnG=) | ---- |  
-| 2025 | ICML | **PINNsAgent: Automated PDE surrogation with large language models** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PINNsAgent%3A+Automated+PDE+Surrogation+with+Large+Language+Models&btnG=) | [GitHub](https://github.com/qingpowuwu/PINNsAgent) |  
 | 2026 | arXiv | **LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LoGeR%3A+Long-Context+Geometric+Reconstruction+with+Hybrid+Memory&btnG=) | [Project](https://loger-project.github.io/) |  
-| 2026 | CVPR | **From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=From+Feature+Learning+to+Spectral+Basis+Learning%3A+A+Unifying+and+Flexible+Framework+for+Efficient+and+Robust+Shape+Matching&btnG=) | [GitHub](https://github.com/LuoFeifan77/Unsupervised-Spectral-Basis-Learning) |  
+
 
 
 
@@ -371,7 +368,7 @@
 | 2026 | ICRL | **AnyUp: Universal Feature Upsampling** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=AnyUp%3A+Universal+Feature+Upsampling&btnG=) | [GtiHub](https://github.com/wimmerth/anyup) |  
 | 2026 | ICLR | **MOE-GS: Mixture of Experts for Dynamic Gaussian Splatting** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=MOE-GS%3A+Mixture+of+Experts+for+Dynamic+Gaussian+Splatting&btnG=) | [GitHub](https://github.com/cvsp-lab/MoE-GS/tree/main) |  
 | 2026 | ICLR | **Active Learning of 3D Gaussian Splatting with Consistent Region Partition and Robust Pose Estimation** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=ACTIVE+LEARNING+OF+3D+GAUSSIAN+SPLATTING+WITH+CONSISTENT+REGION+PARTITION+AND+ROBUST+POSE+ESTIMATION&btnG=) | ---- |  
-
+| 2026 | CVPR | **From Feature Learning to Spectral Basis Learning: A Unifying and Flexible Framework for Efficient and Robust Shape Matching** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=From+Feature+Learning+to+Spectral+Basis+Learning%3A+A+Unifying+and+Flexible+Framework+for+Efficient+and+Robust+Shape+Matching&btnG=) | [GitHub](https://github.com/LuoFeifan77/Unsupervised-Spectral-Basis-Learning) |  
 
 
 
