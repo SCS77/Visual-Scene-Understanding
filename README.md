@@ -52,7 +52,8 @@
 | 2026 | CVPR | **Pe3r: Perception-efficient 3D Reconstruction** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=PE3R%3A+Perception-Efficient+3D+Reconstruction&btnG=) | [GitHub](https://github.com/hujiecpp/PE3R) |  
 | 2026 | arXiv | **OVGGT: O(1) Constant-Cost Streaming Visual Geometry Transformer** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=OVGGT%3A+O%281%29+Constant-Cost+Streaming+Visual+Geometry+Transformer&btnG=) | [Project](https://vaisr.github.io/OVGGT/) |  
 | 2026 | arXiv | **LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LoGeR%3A+Long-Context+Geometric+Reconstruction+with+Hybrid+Memory&btnG=) | [Project](https://loger-project.github.io/) |  
-
+| 2026 | ICLR | **FastVGGT: Training-Free Acceleration of Visual Geometry Transformer** | [Paper](https://arxiv.org/abs/2509.02560) | [Project](https://github.com/mystorm16/FastVGGT) |  
+| 2026 | ICLR | **Streaming 4D Visual Geometry Transformer** | [Paper](https://arxiv.org/abs/2507.11539) | [Project](https://github.com/wzzheng/streamvggt) |  
 
 
 
