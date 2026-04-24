@@ -54,6 +54,7 @@
 | 2026 | arXiv | **LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory** | [Paper](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=LoGeR%3A+Long-Context+Geometric+Reconstruction+with+Hybrid+Memory&btnG=) | [Project](https://loger-project.github.io/) |  
 | 2026 | ICLR | **FastVGGT: Training-Free Acceleration of Visual Geometry Transformer** | [Paper](https://arxiv.org/abs/2509.02560) | [Project](https://github.com/mystorm16/FastVGGT) |  
 | 2026 | ICLR | **Streaming 4D Visual Geometry Transformer** | [Paper](https://arxiv.org/abs/2507.11539) | [Project](https://github.com/wzzheng/streamvggt) |  
+| 2026 | ---- | **DA3-Streaming: Memory-Efficient Inference for Videos via Chunk Streaming** | [Paper](https://github.com/ByteDance-Seed/Depth-Anything-3/blob/main/da3_streaming/README.md) | [Project](https://github.com/ByteDance-Seed/Depth-Anything-3/blob/main/da3_streaming/README.md) |  
 
 
 
